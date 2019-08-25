@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>my resume</title>
+
+    <header>
+        <h1>KEN GYASI AFOAKWA</h1>
+        <p>
+            
+            <i>Highly motivated graduate in BSc Environmental Science with successful academic and work track. <br> Ambitious and looking forward to playing key role in impacting positives in the lives of people and making the environment a better place to live. Persuasive and able to organize as well as implementation of good initiatives.</i> 
+        </p>
+
+        <div>
+            <a href="#">EDUCATIONAL QUALIFICATIONS</a>
+            <a href="#">WORK EXPERIENCE</a>
+            <a href="#">VOLUNTARY EXPERIENCE</a>
+        </div>
+
+        <hr>
+    </header>
+
+    <div>
+        <img src="img/ken photo for coding.jpeg" alt=""width= "200" height= "350">
+    </div>
+
+    <hr>
+    <div>
+
+        <h3>EDUCATIONAL QUALIFICATIONS</h3>
+        <ul>
+            <li>BSc Environmental Science, Kwame Nkrumah University of Science and Technology, Kumasi, 2014.
+                </li>
+                <li>WASSCE (Science Programme), Prempeh College, Kumasi, 2009.
+                    </li>
+        </ul>
+    </div>
+
+    <hr>
+
+    <h3>WORK EXPERIENCE</h3>
+    <p> <b>TRADER</b>  -  <i>March 2017 to Present</i> </p>
+    <p>Kumasi</p>
+
+    <ul>
+        <li>Responsible for the general administration of a coconut-selling enterprise whose sourcing, wholesale and retail activities span four regions in Ghana</li>
+        <li>Designing and leading multiple-channel sales of coconuts in Kumasi and Obuasi
+            </li>
+            <li>Training and management of a team of six people in various roles
+                </li>
+    </ul>
+    <p><b>PRODUCTION MANAGER</b> - <i>October 2016 - June 2017</i> </p>
+    <p>Aghay Company Limited, Kumasi and Obuasi</p>
+
+    <ul>
+        <li>General supervision of production of sachet drinking water
+            </li>
+            <li>Overseeing transportation and distribution of bags of water to various customers</li>
+            <li>Supervision of the maintenance and operation of production machines and company trucks
+                </li>
+
+    </ul>
+
+    <div>
+        <h3>VOLUNTARY EXPERIENCE</h3>
+        <p><b>TEAM LEADER, Internship</b> -  <i>June 2013 to August 2013</i> </p>
+        <p>Environmental Health Dept, Obuasi Municipal Assembly, Obuasi</p>
+        
+
+    <ul>
+        <li>Writing records and records for environmental supervisors
+            </li>
+            <li>Collecting samples for laboratory tests
+                </li>
+                <li>Giving health talks in basics schools and hospitals
+                    </li>
+    </ul>
+</head>
+<body>
+    
+</body>
+</html>
+
