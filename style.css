@@ -1,0 +1,49 @@
+*{
+    margin: 0; padding: 0;
+}
+body{
+    background-color: #fff;
+}
+.details{
+    background-color: #7B1FA2; height: 12em;
+    color: white;
+}
+img{
+    border-radius: 50%;
+    display: block;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+#obj{
+    font-size: 20px;
+    text-align: center; padding: 5px;
+}
+#image{
+    float: left;
+}
+#personal-details{
+    display: inline;
+    float: right;
+    margin-top: -5.3em;
+    padding: 5px;
+}
+.other-det{
+    margin: 10px;
+    padding: 8px;
+}
+h3{
+    text-align: left;
+    font-size: 2em;
+}
+.education, .work, .voluntary{
+    margin: 10px;
+    padding: 4px;
+}
+#trader{
+    padding-bottom: 5px;
+}
+#pm{
+    padding-top: 5px;
+}
